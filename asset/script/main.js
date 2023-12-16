@@ -12,7 +12,7 @@ function closeSidebar() {
 }
 
 function visitWebButton() {
-   window.location.href = '/Download.html';
+   window.location.href = '/#/Download.html';
 }
 
 function dcServerButton() {
